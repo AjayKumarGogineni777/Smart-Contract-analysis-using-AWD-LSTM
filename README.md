@@ -7,5 +7,6 @@ The models are built and trained using fastai library, which is an open-source p
 
 This method produces acceptable results with an accuracy of 91.0% and an F1 score of 90.0% in multi-class classification of SCs. The high AUC indicates robust performance of the algorithm for the detection of vulnerabilities in the SCs.
 
+The data used in this repository is not publically available. Please contact me if you want the access.
 Google Drive link to all the weights saved:
 https://drive.google.com/open?id=11mgiNKVRI81wKWzgf9Z47YYE_BQ6Wkr6
